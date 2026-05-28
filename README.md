@@ -1,33 +1,93 @@
 # 💻 Portfólio Pessoal
 
-Meu primeiro portfólio desenvolvido com HTML e CSS.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" />
+</p>
 
-## 🚀 Sobre o projeto
+<p align="center">
+  Meu primeiro portfólio desenvolvido com HTML e CSS — apresentando meus projetos e habilidades em desenvolvimento web.
+</p>
 
-Este projeto foi criado com o objetivo de praticar desenvolvimento web, estruturação de páginas responsivas e criação de um portfólio profissional.
+<p align="center">
+  <a href="https://joaoyan.github.io/portfolio-html-css/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver Projeto Online-000000?style=for-the-badge" />
+  </a>
+</p>
 
-## 🛠️ Tecnologias utilizadas
+---
 
-- HTML5
-- CSS3
-- Git & GitHub
+## 📸 Preview
 
-## 📚 Atualmente estudando
+> 💡 *Adicione aqui um screenshot do seu portfólio.*
+> No GitHub, clique em **Edit** → arraste a imagem para o campo de texto → copie o link gerado e cole aqui substituindo esta linha.
 
-- JavaScript
-- Responsividade
-- Desenvolvimento Front-End
+---
 
-## 🌐 Projeto Online
+## 🚀 Sobre o Projeto
 
-Acesse o projeto publicado:
+Este portfólio foi criado com o objetivo de praticar desenvolvimento web, estruturar páginas responsivas e apresentar meus projetos de forma profissional.
 
-https://joaoyan.github.io/portfolio-html-css/
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsividade-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End-Development-blueviolet?style=flat" />
+</p>
+
+---
+
+## 🖥️ Como Visualizar Localmente
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/joaoyan/portfolio-html-css.git
+
+# 2. Entre na pasta
+cd portfolio-html-css
+
+# 3. Abra o arquivo index.html no navegador
+# No Windows:
+start index.html
+
+# No Linux/Mac:
+open index.html
+```
+
+Ou simplesmente abra o arquivo `index.html` com dois cliques. Não precisa de servidor!
+
+---
 
 ## 🎯 Objetivo
 
 Construir experiência prática em desenvolvimento web e evoluir constantemente minhas habilidades em programação e tecnologia.
 
-## 📌 Status do projeto
+---
 
-✅ Em desenvolvimento
+## 📌 Status
+
+🚧 Em desenvolvimento — novas funcionalidades sendo adicionadas.
+
+---
+
+## 👨‍💻 Autor
+
+Feito por **João Yan**
+
+[![GitHub](https://img.shields.io/badge/GitHub-joaoyan-181717?style=flat&logo=github)](https://github.com/joaoyan)
+[![Portfólio](https://img.shields.io/badge/Portfolio-Online-brightgreen?style=flat)](https://joaoyan.github.io/portfolio-html-css/)
