@@ -1,4 +1,4 @@
-# 💻 Portfólio Pessoal
+<img width="1360" height="536" alt="image" src="https://github.com/user-attachments/assets/afb59b3a-faa6-4d7b-9190-25eef137a74e" /># 💻 Portfólio Pessoal
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,8 +20,7 @@
 
 ## 📸 Preview
 
-> 💡 *Adicione aqui um screenshot do seu portfólio.*
-> No GitHub, clique em **Edit** → arraste a imagem para o campo de texto → copie o link gerado e cole aqui substituindo esta linha.
+<img width="1360" height="536" alt="image" src="https://github.com/user-attachments/assets/07c123c4-92b6-4f71-9fca-bb51b078125d" />
 
 ---
 
