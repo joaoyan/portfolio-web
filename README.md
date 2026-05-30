@@ -1,92 +1,102 @@
-# 💻 Portfólio Pessoal
+# 💻 Portfólio Profissional | João Yan
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  Meu primeiro portfólio desenvolvido com HTML e CSS — apresentando meus projetos e habilidades em desenvolvimento web.
+Portfólio desenvolvido para apresentar minhas habilidades, projetos e evolução na área de Tecnologia da Informação.
 </p>
 
 <p align="center">
-  <a href="https://joaoyan.github.io/portfolio-html-css/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Ver Projeto Online-000000?style=for-the-badge" />
+  <a href="https://joaoyan.github.io/portfolio-html-css/">
+    <img src="https://img.shields.io/badge/🌐 Acessar Portfólio-000000?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
+## 👨‍💻 Sobre Mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação na área.
+
+Tenho experiência com atendimento ao cliente, suporte operacional e tecnologia, desenvolvendo habilidades em resolução de problemas, comunicação e suporte ao usuário.
+
+Atualmente estou aprimorando meus conhecimentos em desenvolvimento web com JavaScript, além de continuar minha evolução na área de Suporte Técnico, Help Desk e Service Desk.
+
+---
+
+## 🚀 Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Python (Básico)
+* Responsividade
+* Windows
+* Pacote Office
+
+---
+
+## 📂 Funcionalidades do Portfólio
+
+* Layout responsivo
+* Interface moderna
+* Animações com JavaScript
+* Efeito de digitação dinâmica
+* Cards animados
+* Design adaptado para dispositivos móveis
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades nas áreas de:
+
+* Analista de Suporte
+* Help Desk
+* Service Desk
+* Suporte Técnico
+* Front-End Júnior
+
+Com o objetivo de contribuir para a resolução de problemas, melhoria da experiência do usuário e desenvolvimento de soluções tecnológicas.
+
+---
+
 ## 📸 Preview
 
-<img width="1360" height="536" alt="image" src="https://github.com/user-attachments/assets/07c123c4-92b6-4f71-9fca-bb51b078125d" />
+Adicione aqui um print atualizado da versão mais recente do portfólio.
 
 ---
 
-## 🚀 Sobre o Projeto
+## 🌐 Projeto Online
 
-Este portfólio foi criado com o objetivo de praticar desenvolvimento web, estruturar páginas responsivas e apresentar meus projetos de forma profissional.
+Acesse:
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+https://joaoyan.github.io/portfolio-html-css/
 
 ---
 
-## 📚 Atualmente Estudando
+## 📈 Próximos Projetos
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsividade-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front--End-Development-blueviolet?style=flat" />
-</p>
-
----
-
-## 🖥️ Como Visualizar Localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/joaoyan/portfolio-html-css.git
-
-# 2. Entre na pasta
-cd portfolio-html-css
-
-# 3. Abra o arquivo index.html no navegador
-# No Windows:
-start index.html
-
-# No Linux/Mac:
-open index.html
-```
-
-Ou simplesmente abra o arquivo `index.html` com dois cliques. Não precisa de servidor!
-
----
-
-## 🎯 Objetivo
-
-Construir experiência prática em desenvolvimento web e evoluir constantemente minhas habilidades em programação e tecnologia.
-
----
-
-## 📌 Status
-
-🚧 Em desenvolvimento — novas funcionalidades sendo adicionadas.
+* Help Desk Dashboard
+* To-Do List com JavaScript
+* Conversor de Moedas
+* Projetos Front-End Responsivos
 
 ---
 
 ## 👨‍💻 Autor
 
-Feito por **João Yan**
+João Yan
 
-[![GitHub](https://img.shields.io/badge/GitHub-joaoyan-181717?style=flat&logo=github)](https://github.com/joaoyan)
-[![Portfólio](https://img.shields.io/badge/Portfolio-Online-brightgreen?style=flat)](https://joaoyan.github.io/portfolio-html-css/)
+GitHub:
+https://github.com/joaoyan
+
+Portfólio:
+https://joaoyan.github.io/portfolio-html-css/
