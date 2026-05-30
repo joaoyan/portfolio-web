@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
+
 <head>
 
     <meta charset="UTF-8">
@@ -7,12 +8,16 @@
 
     <title>João Yan | Portfólio</title>
 
+    <meta name="description"
+        content="Portfólio de João Yan - Analista de Suporte, Help Desk, Service Desk e Desenvolvedor Front-End em formação.">
+
     <link rel="stylesheet" href="style.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
 
 </head>
 
@@ -22,19 +27,19 @@
 
         <div class="hero-content">
 
-            <h1>João Yan</h1>
+            <h1 id="typing-name"></h1>
 
             <p>
-                Formado em ADS • HTML • CSS • Aprendendo JavaScript
+                Analista de Suporte • Help Desk • Service Desk • Desenvolvedor Front-End em Formação
             </p>
 
             <div class="buttons">
 
-                <a href="https://github.com/" target="_blank">
+                <a href="https://github.com/joaoyan" target="_blank">
                     GitHub
                 </a>
 
-                <a href="https://linkedin.com/" target="_blank" class="linkedin">
+                <a href="https://linkedin.com/in/joaoyan" target="_blank" class="linkedin">
                     LinkedIn
                 </a>
 
@@ -48,26 +53,33 @@
 
         <section class="card">
 
-            <h2>Sobre Mim</h2>
+            <h2>👨‍💻 Sobre Mim</h2>
 
             <p>
-                Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web utilizando HTML e CSS. Atualmente estudo JavaScript e continuo evoluindo minhas habilidades em programação e tecnologia.
+                Sou formado em Análise e Desenvolvimento de Sistemas e atualmente realizo pós-graduação na área.
+                Possuo experiência com atendimento ao cliente, suporte operacional e tecnologia.
+                Estou em constante evolução nos estudos de JavaScript, desenvolvimento web e suporte técnico,
+                buscando oportunidades como Analista de Suporte, Help Desk, Service Desk ou Desenvolvedor Front-End Júnior.
             </p>
 
         </section>
 
         <section class="card">
 
-            <h2>Habilidades</h2>
+            <h2>🚀 Habilidades</h2>
 
             <div class="skills">
 
                 <span>HTML5</span>
                 <span>CSS3</span>
-                <span>Git & GitHub</span>
+                <span>JavaScript</span>
+                <span>Git</span>
+                <span>GitHub</span>
                 <span>Python Básico</span>
-                <span>JavaScript (Aprendendo)</span>
                 <span>Responsividade</span>
+                <span>Suporte Técnico</span>
+                <span>Windows</span>
+                <span>Pacote Office</span>
 
             </div>
 
@@ -75,26 +87,71 @@
 
         <section class="card">
 
-            <h2>Projetos</h2>
+            <h2>📂 Projetos</h2>
 
             <div class="projects">
 
                 <div class="project-box">
+
                     <h3>Portfólio Pessoal</h3>
-                    <p>Projeto desenvolvido com HTML e CSS.</p>
+
+                    <p>
+                        Site responsivo desenvolvido utilizando HTML, CSS e JavaScript.
+                    </p>
+
                 </div>
 
                 <div class="project-box">
-                    <h3>Landing Page</h3>
-                    <p>Layout moderno e responsivo.</p>
+
+                    <h3>Help Desk Dashboard</h3>
+
+                    <p>
+                        Sistema para gerenciamento de chamados técnicos utilizando JavaScript e LocalStorage.
+                    </p>
+
                 </div>
 
                 <div class="project-box">
-                    <h3>Página de Login</h3>
-                    <p>Tela estilizada para autenticação.</p>
+
+                    <h3>To-Do List</h3>
+
+                    <p>
+                        Aplicação de lista de tarefas com armazenamento local no navegador.
+                    </p>
+
                 </div>
 
             </div>
+
+        </section>
+
+        <section class="card">
+
+            <h2>🎯 Objetivo Profissional</h2>
+
+            <p>
+                Busco uma oportunidade para atuar na área de Tecnologia da Informação,
+                contribuindo com minhas habilidades em suporte técnico, atendimento ao usuário,
+                resolução de problemas e desenvolvimento web.
+            </p>
+
+        </section>
+
+        <section class="card">
+
+            <h2>📞 Contato</h2>
+
+            <p>
+                Email: joaoyanlucena@gmail.com
+            </p>
+
+            <p>
+                LinkedIn: linkedin.com/in/seu-linkedin
+            </p>
+
+            <p>
+                GitHub: github.com/joaoyan
+            </p>
 
         </section>
 
@@ -103,10 +160,13 @@
     <footer>
 
         <p>
-            © 2026 João Yan • Todos os direitos reservados.
+            © <span id="year"></span> João Yan • Todos os direitos reservados.
         </p>
 
     </footer>
 
+    <script src="script.js"></script>
+
 </body>
+
 </html>
