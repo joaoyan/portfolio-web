@@ -221,3 +221,13 @@ footer{
     }
 
 }
+.card a{
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.card a:hover{
+    text-decoration: underline;
+    color: #60a5fa;
+}
