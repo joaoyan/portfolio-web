@@ -70,7 +70,7 @@ Com o objetivo de contribuir para a resolução de problemas, melhoria da experi
 
 ## 📸 Preview
 
-Adicione aqui um print atualizado da versão mais recente do portfólio.
+![Preview do Portfólio](preview.png)
 
 ---
 
