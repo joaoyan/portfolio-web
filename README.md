@@ -12,7 +12,7 @@ Portfólio desenvolvido para apresentar minhas habilidades, projetos e evoluçã
 </p>
 
 <p align="center">
-  <a href="https://joaoyan.github.io/portfolio-html-css/">
+  <a href="https://joaoyan.github.io/portfolio-web/">
     <img src="https://img.shields.io/badge/🌐 Acessar Portfólio-000000?style=for-the-badge" />
   </a>
 </p>
