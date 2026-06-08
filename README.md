@@ -91,10 +91,10 @@ https://joaoyan.github.io/portfolio-html-css/
 
 ---
 
-## 👨‍💻 Autor João Yan
+## 👨‍💻 Autor: João Yan
 
 Linkedin:
-www.linkedin.com/in/joaoyan/
+www.linkedin.com/in/joaoyan
 
 GitHub:
 https://github.com/joaoyan
